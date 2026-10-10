@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/drizzle-team/onedollarstats-package",
+  "@type": "gh:Repository",
+  "gh:name": "onedollarstats-package",
+  "gh:owner": "drizzle-team",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/drizzle-team/onedollarstats-package/commit/613bc6596ce80d631418ef0a280a475261173706",
+      "git:hexsha": "613bc6596ce80d631418ef0a280a475261173706",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
